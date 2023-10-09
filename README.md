@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+
+![screencapture-localhost-30![screencapture-localhost-3001-2023-10-09-21_48_46](https://github.com/Pratik4412/osumare/assets/121230559/fe79b3fd-fa42-42d0-a28e-89b70ddc4cbb)
+01-2023-10-09-21_48_46](https://github.com/Pratik4412/osumare/assets/121230559/617c8740-4b44-466e-a8cc-94322dccc9e2)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
